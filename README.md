@@ -21,10 +21,11 @@ OpenInsider**, the platform makes insider trading data easier to
 explore, filter, and act on across **web and mobile devices**.
 
 **Best for:** - Tracking and analyzing insider buying and selling in
-real time\
-- Receiving **real-time alerts** on significant insider transactions\
-- Following specific **companies and individual insiders**\
-- Identifying unusual or high-signal insider activity\
+real time
+- Receiving **real-time alerts** on significant insider transactions
+- Following specific **companies and individual insiders**
+- Identifying unusual or high-signal insider activity
+- Understand SEC form 4 filings.
 - Adding behavior-driven insights alongside technical and fundamental
 analysis
 
@@ -41,9 +42,9 @@ analysis
 One of the most trusted names in investment research, known for deep
 company analysis, fair value estimates, and fund ratings.
 
-**Best for:** - Long-term fundamental analysis\
-- Fair value and moat assessments\
-- Mutual fund and ETF research\
+**Best for:** - Long-term fundamental analysis
+- Fair value and moat assessments
+- Mutual fund and ETF research
 - Conservative, research-driven investing
 
 ------------------------------------------------------------------------
@@ -57,9 +58,9 @@ company analysis, fair value estimates, and fund ratings.
 A modern platform that makes it easy to access earnings calls, slide
 decks, and company commentary without digging through filings.
 
-**Best for:** - Reading earnings call transcripts\
-- Reviewing investor presentations\
-- Tracking management commentary\
+**Best for:** - Reading earnings call transcripts
+- Reviewing investor presentations
+- Tracking management commentary
 - Qualitative company research
 
 ------------------------------------------------------------------------
@@ -73,9 +74,9 @@ decks, and company commentary without digging through filings.
 Widely used for its powerful charting engine, technical indicators, and
 multi-asset coverage across global markets.
 
-**Best for:** - Technical analysis and charting\
-- Comparing multiple assets\
-- Custom indicators and strategies\
+**Best for:** - Technical analysis and charting
+- Comparing multiple assets
+- Custom indicators and strategies
 - Visual market trend analysis
 
 ------------------------------------------------------------------------
@@ -89,9 +90,9 @@ multi-asset coverage across global markets.
 Known for its speed and usability, FINVIZ makes it easy to filter stocks
 by fundamentals, technicals, and performance.
 
-**Best for:** - Quick stock screening\
-- Sector and heatmap overviews\
-- Finding momentum or value setups\
+**Best for:** - Quick stock screening
+- Sector and heatmap overviews
+- Finding momentum or value setups
 - Generating new trade ideas fast
 
 ------------------------------------------------------------------------
@@ -105,9 +106,9 @@ by fundamentals, technicals, and performance.
 A favorite among data-driven investors for testing strategies, analyzing
 factor exposure, and modeling portfolios.
 
-**Best for:** - Backtesting investment strategies\
-- Factor and risk analysis\
-- Asset allocation modeling\
+**Best for:** - Backtesting investment strategies
+- Factor and risk analysis
+- Asset allocation modeling
 - Comparing portfolio performance over time
 
 ------------------------------------------------------------------------
@@ -121,9 +122,9 @@ factor exposure, and modeling portfolios.
 A clean, intuitive platform for modeling multi-leg options strategies
 and understanding risk/reward visually.
 
-**Best for:** - Building complex options trades\
-- Visual payoff diagrams\
-- Comparing strategy outcomes\
+**Best for:** - Building complex options trades
+- Visual payoff diagrams
+- Comparing strategy outcomes
 - Learning options risk structures
 
 ------------------------------------------------------------------------
@@ -137,9 +138,9 @@ and understanding risk/reward visually.
 A top choice for serious investors and traders who want low costs,
 international markets, and advanced tools.
 
-**Best for:** - Trading global stocks, options, futures, and FX\
-- Low margin rates\
-- Advanced order types\
+**Best for:** - Trading global stocks, options, futures, and FX
+- Low margin rates
+- Advanced order types
 - Active and professional traders
 
 ------------------------------------------------------------------------
@@ -153,9 +154,9 @@ international markets, and advanced tools.
 Offers fundamentals, financial statements, ratios, and market data via
 API for building custom tools and dashboards.
 
-**Best for:** - Building financial apps and dashboards\
-- Accessing company fundamentals programmatically\
-- Quant research and automation\
+**Best for:** - Building financial apps and dashboards
+- Accessing company fundamentals programmatically
+- Quant research and automation
 - Custom data workflows
 
 ------------------------------------------------------------------------
@@ -169,7 +170,7 @@ API for building custom tools and dashboards.
 The go-to resource for learning investing terminology, strategies, and
 market mechanics.
 
-**Best for:** - Learning investing basics\
-- Understanding financial terms\
-- Exploring new strategies\
+**Best for:** - Learning investing basics
+- Understanding financial terms
+- Exploring new strategies
 - Beginner-to-intermediate education
