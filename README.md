@@ -47,6 +47,8 @@ company analysis, fair value estimates, and fund ratings.
 - Mutual fund and ETF research
 - Conservative, research-driven investing
 
+🔗 **Explore morningstar.com →** https://morningstar.com
+
 ------------------------------------------------------------------------
 
 ## 📰 Best for Filings, Transcripts & Primary Sources
@@ -62,6 +64,8 @@ decks, and company commentary without digging through filings.
 - Reviewing investor presentations
 - Tracking management commentary
 - Qualitative company research
+
+🔗 **Explore quartr.com →** https://quartr.com
 
 ------------------------------------------------------------------------
 
@@ -79,6 +83,8 @@ multi-asset coverage across global markets.
 - Custom indicators and strategies
 - Visual market trend analysis
 
+🔗 **Explore tradingview.com →** https://tradingview.com
+
 ------------------------------------------------------------------------
 
 ## 🔎 Best for Stock Screening & Idea Discovery
@@ -94,6 +100,8 @@ by fundamentals, technicals, and performance.
 - Sector and heatmap overviews
 - Finding momentum or value setups
 - Generating new trade ideas fast
+
+🔗 **Explore finviz.com →** https://finviz.com
 
 ------------------------------------------------------------------------
 
